@@ -12,13 +12,14 @@
 }
 
 :root {
-  --main-color: #033a80;
+  --main-color: #0059ab;
   --bg-color: #fff;
-  --bg-color2: #eeeeee;
+  --bg-color2: #f6fbff;
   --text-color: #0f0c27;
   --text-color2: var(--main-color);
   --hover: #333;
-  --hover_text: #033a80;
+  --hover_text: #0059ab;
+  --hover_text1: #f6fbff;
   --big-font: 3.2rem;
   --medium-font: 1.8rem;
   --p-font: 0.941rem;
